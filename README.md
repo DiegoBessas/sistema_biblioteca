@@ -25,7 +25,14 @@ Através da ferramenta `adr-tools`, instalada no Linux, para criar e gerenciar o
 
 ## 📁 Estrutura do projeto
 
-sistema-restaurante/ ├── doc/ │   └── adr/ │       ├── 0001-record-architecture-decisions.md │       ├── 0002-escolha-de-arquitetura-em-camadas.md │       ├── 0003-escolha-de-banco-de-dados-postgresql.md │       └── 0004-integracao-continua-com-github-actions.md ├── src/ └── README.md
+sistema-restaurante/ ├── doc/
+│   └── adr/
+│       ├── 0001-record-architecture-decisions.md
+│       ├── 0002-escolha-de-arquitetura-em-camadas.md
+│       ├── 0003-escolha-de-banco-de-dados-postgresql.md
+│       └── 0004-integracao-continua-com-github-actions.md
+├── src/
+└── README.md
 
 
 ## ✅ Objetivo
